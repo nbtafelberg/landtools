@@ -17,6 +17,7 @@ In  your Economy section of OpenSim.ini
 </code>
 
 
+Quick note - some of these files are not needed but are there as they were part of the original code that didn't work.
 
 With love from Lone Wolf at Wolf Territories Grid
 https://grid.wolfterritories.org
